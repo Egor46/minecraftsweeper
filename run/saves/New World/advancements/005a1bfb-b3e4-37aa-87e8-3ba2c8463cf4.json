@@ -1,0 +1,31 @@
+{
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2024-01-27 23:29:50 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2024-01-27 23:29:37 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2024-01-27 23:29:50 +0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:frozen_river": "2024-01-27 23:30:02 +0300",
+      "minecraft:river": "2024-01-27 23:29:10 +0300",
+      "minecraft:snowy_plains": "2024-01-27 23:29:46 +0300",
+      "minecraft:snowy_taiga": "2024-01-27 23:29:33 +0300",
+      "minecraft:plains": "2024-01-27 23:29:03 +0300"
+    },
+    "done": false
+  },
+  "DataVersion": 3120
+}

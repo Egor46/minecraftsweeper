@@ -47,7 +47,10 @@
     </system>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/main" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="b5df694c-9d9d-4fa8-935a-59865390963e" />
   </component>
   <component name="ProjectId" id="2bXcoWI0VTib3rnnMFAZ24LdjBs" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -59,7 +62,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.grazie" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
   <component name="RunManager" selected="Gradle.minecraftsweeper [runClient]">
     <configuration name="minecraftsweeper [runClient]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">

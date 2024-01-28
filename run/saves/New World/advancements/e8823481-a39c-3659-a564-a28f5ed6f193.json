@@ -1,0 +1,11 @@
+{
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:snowy_plains": "2024-01-27 21:45:42 +0300",
+      "minecraft:snowy_taiga": "2024-01-27 21:44:44 +0300",
+      "minecraft:plains": "2024-01-27 21:45:45 +0300"
+    },
+    "done": false
+  },
+  "DataVersion": 3120
+}
